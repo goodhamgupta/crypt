@@ -1,1 +1,4 @@
 private.txt filter=git-crypt diff=git-crypt
+frontend/** filter=git-crypt-frontend diff=git-crypt-frontend
+backend/** filter=git-crypt-backend diff=git-crypt-backend
+devops/** filter=git-crypt-devops diff=git-crypt-devops
